@@ -1,0 +1,5 @@
+# 이 저장소에는 비교 시뮬레이터만 올린다. 나머지 파일은 로컬에만 둔다.
+*
+!.gitignore
+!index.html
+!simulator_compare.html
